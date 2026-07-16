@@ -109,19 +109,6 @@ Plataforma web para divulgação de bolsas de estudo e cursos, conectando instit
 
 <br/>
 
-<img src="./assets/analytics.png" alt="GitHub Analytics" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=piruetai&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piruetai&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piruetai&theme=react&hide_border=true" alt="GitHub Streak" width="49%"/>
-
-</div>
-
-<br/>
-
 <img src="./assets/objetivo.png" alt="Objetivo" width="100%"/>
 
 Meu objetivo é **crescer como profissional de dados**, aprofundando meus conhecimentos em **banco de dados relacional e não relacional**, **regras de negócio** e **Business Intelligence**, sempre desenvolvendo isso em **equipe** e em **projetos reais** — que é onde, na prática, os dados realmente viram decisão.
