@@ -8,6 +8,8 @@
 [![Gmail](https://img.shields.io/badge/Email-mayconlima2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayconlima2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-piruetai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piruetai)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Transformando+dados+em+informa%C3%A7%C3%A3o.;Business+Intelligence.;SQL+%7C+Power+BI+%7C+MongoDB.;Sempre+aprendendo+algo+novo." />
+
 </div>
 
 <br/>
