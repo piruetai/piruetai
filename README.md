@@ -126,6 +126,6 @@ Meu objetivo é **crescer como profissional de dados**, aprofundando meus conhec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-lima-5a4b772bb/)
 [![Gmail](https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayconlima2006@gmail.com)
 
-<sub>Obrigado pela visita! ⭐ Sinta-se à vontade para explorar meus repositórios.</sub>
+<sub>⭐ Sinta-se à vontade para explorar meus repositórios.</sub>
 
 </div>
